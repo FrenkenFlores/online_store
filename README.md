@@ -24,6 +24,7 @@
     - name: str -> required
     
 3. products
+    - id: objectId
     - name: str -> required 
     - amount_in_stock: int -> required 
     - price: float -> required
@@ -50,3 +51,8 @@
  - only necessary information are mentioned here which means you can handle things if you feel they should be handled (even if it is not mentioned directly)
  - use the best programming techniques/patterns to make the code high quality, easy to maintain, low complexity, testable
  - demonstrate the knowledge of test driven development
+
+
+ 
+    
+
