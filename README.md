@@ -36,9 +36,9 @@
 ### notes : 
 - the collection defenations above are meant to give you information about required fields,they assume nothing about db structure, feel free to come up with the best structure 
 - cart collection should have information about: user,selected products, count and total_price (it's up to you to decide how)
-- feel free to use one of the following frameworks: Django,Flaks and FastAPI
+- feel free to use one of the following frameworks: Django,Flask and FastAPI
 
-### restrications : 
+### restrictions : 
  - inactive users can't preform the following actions : login, modify cart
  - out of stock products should not be displayed 
  - products with 0 amount should not be displayed 
