@@ -52,7 +52,7 @@
  - use the best programming techniques/patterns to make the code high quality, easy to maintain, low complexity, testable
  - demonstrate the knowledge of test driven development
 
-
+### please upload your code to github and send the link of your repository to zakir@atarev.com
  
     
 
